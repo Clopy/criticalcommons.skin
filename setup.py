@@ -35,7 +35,6 @@ setup(name='criticalcommons.skin',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          # -*- Extra requirements: -*-
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""

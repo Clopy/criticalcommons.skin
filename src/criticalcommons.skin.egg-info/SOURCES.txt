@@ -13,5 +13,8 @@ src/criticalcommons.skin.egg-info/requires.txt
 src/criticalcommons.skin.egg-info/top_level.txt
 src/criticalcommons/skin/__init__.py
 src/criticalcommons/skin/testing.py
+src/criticalcommons/skin/browser/__init__.py
+src/criticalcommons/skin/interfaces/__init__.py
+src/criticalcommons/skin/interfaces/criticalcommonsskinlayer.py
 src/criticalcommons/skin/tests/__init__.py
 src/criticalcommons/skin/tests/test_example.py
